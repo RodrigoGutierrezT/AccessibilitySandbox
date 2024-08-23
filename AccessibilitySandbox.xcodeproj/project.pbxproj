@@ -14,6 +14,7 @@
 		5BF8B61A2C7809A50084C5E7 /* AccessibilityLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */; };
 		5BF8B61C2C780E210084C5E7 /* HiddingAccDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B61B2C780E210084C5E7 /* HiddingAccDataView.swift */; };
 		5BF8B61E2C780F9E0084C5E7 /* ReadingValueControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B61D2C780F9E0084C5E7 /* ReadingValueControlsView.swift */; };
+		5BF8B6202C7812E60084C5E7 /* MultipleLabelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B61F2C7812E60084C5E7 /* MultipleLabelsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityLabelView.swift; sourceTree = "<group>"; };
 		5BF8B61B2C780E210084C5E7 /* HiddingAccDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiddingAccDataView.swift; sourceTree = "<group>"; };
 		5BF8B61D2C780F9E0084C5E7 /* ReadingValueControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingValueControlsView.swift; sourceTree = "<group>"; };
+		5BF8B61F2C7812E60084C5E7 /* MultipleLabelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleLabelsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */,
 				5BF8B61B2C780E210084C5E7 /* HiddingAccDataView.swift */,
 				5BF8B61D2C780F9E0084C5E7 /* ReadingValueControlsView.swift */,
+				5BF8B61F2C7812E60084C5E7 /* MultipleLabelsView.swift */,
 			);
 			path = Snippets;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				5BF8B61A2C7809A50084C5E7 /* AccessibilityLabelView.swift in Sources */,
 				5BF8B61E2C780F9E0084C5E7 /* ReadingValueControlsView.swift in Sources */,
 				5BF8B60D2C756D0E0084C5E7 /* ContentView.swift in Sources */,
+				5BF8B6202C7812E60084C5E7 /* MultipleLabelsView.swift in Sources */,
 				5BF8B61C2C780E210084C5E7 /* HiddingAccDataView.swift in Sources */,
 				5BF8B60B2C756D0E0084C5E7 /* AccessibilitySandboxApp.swift in Sources */,
 			);
