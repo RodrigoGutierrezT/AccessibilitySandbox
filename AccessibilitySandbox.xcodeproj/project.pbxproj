@@ -11,6 +11,7 @@
 		5BF8B60D2C756D0E0084C5E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B60C2C756D0E0084C5E7 /* ContentView.swift */; };
 		5BF8B60F2C756D100084C5E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF8B60E2C756D100084C5E7 /* Assets.xcassets */; };
 		5BF8B6122C756D100084C5E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF8B6112C756D100084C5E7 /* Preview Assets.xcassets */; };
+		5BF8B61A2C7809A50084C5E7 /* AccessibilityLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5BF8B60C2C756D0E0084C5E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5BF8B60E2C756D100084C5E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BF8B6112C756D100084C5E7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +54,10 @@
 			isa = PBXGroup;
 			children = (
 				5BF8B60A2C756D0E0084C5E7 /* AccessibilitySandboxApp.swift */,
-				5BF8B60C2C756D0E0084C5E7 /* ContentView.swift */,
 				5BF8B60E2C756D100084C5E7 /* Assets.xcassets */,
+				5BF8B60C2C756D0E0084C5E7 /* ContentView.swift */,
 				5BF8B6102C756D100084C5E7 /* Preview Content */,
+				5BF8B6182C78097C0084C5E7 /* Snippets */,
 			);
 			path = AccessibilitySandbox;
 			sourceTree = "<group>";
@@ -65,6 +68,14 @@
 				5BF8B6112C756D100084C5E7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5BF8B6182C78097C0084C5E7 /* Snippets */ = {
+			isa = PBXGroup;
+			children = (
+				5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */,
+			);
+			path = Snippets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF8B61A2C7809A50084C5E7 /* AccessibilityLabelView.swift in Sources */,
 				5BF8B60D2C756D0E0084C5E7 /* ContentView.swift in Sources */,
 				5BF8B60B2C756D0E0084C5E7 /* AccessibilitySandboxApp.swift in Sources */,
 			);
