@@ -12,6 +12,7 @@
 		5BF8B60F2C756D100084C5E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF8B60E2C756D100084C5E7 /* Assets.xcassets */; };
 		5BF8B6122C756D100084C5E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF8B6112C756D100084C5E7 /* Preview Assets.xcassets */; };
 		5BF8B61A2C7809A50084C5E7 /* AccessibilityLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */; };
+		5BF8B61C2C780E210084C5E7 /* HiddingAccDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B61B2C780E210084C5E7 /* HiddingAccDataView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		5BF8B60E2C756D100084C5E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BF8B6112C756D100084C5E7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityLabelView.swift; sourceTree = "<group>"; };
+		5BF8B61B2C780E210084C5E7 /* HiddingAccDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiddingAccDataView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				5BF8B6192C7809A50084C5E7 /* AccessibilityLabelView.swift */,
+				5BF8B61B2C780E210084C5E7 /* HiddingAccDataView.swift */,
 			);
 			path = Snippets;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				5BF8B61A2C7809A50084C5E7 /* AccessibilityLabelView.swift in Sources */,
 				5BF8B60D2C756D0E0084C5E7 /* ContentView.swift in Sources */,
+				5BF8B61C2C780E210084C5E7 /* HiddingAccDataView.swift in Sources */,
 				5BF8B60B2C756D0E0084C5E7 /* AccessibilitySandboxApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
